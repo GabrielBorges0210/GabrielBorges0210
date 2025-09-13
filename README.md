@@ -11,8 +11,10 @@
 </div>
 
 ###
+---
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-borges-c-rodrigues-ba3420294/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielborges0210@gmail.com)
 
 ![snake gif](dist/github-contribution-grid-snake-dark.svg)
 
