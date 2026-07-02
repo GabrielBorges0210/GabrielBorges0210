@@ -1,4 +1,4 @@
-### 👋 Oie! Sou o Gabriel Borges, futuro Engenheiro da Computação
+### 👋 Hey! I´m Gabriel Borges, future Computer Engineer
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabs-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
